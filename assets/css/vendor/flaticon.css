@@ -1,0 +1,74 @@
+@font-face {
+  font-family: "flaticon";
+  src: url("../../fonts/flaticon74c9.html?d7df025cfae80c576fe3d61cc821caeb")
+      format("truetype"),
+    url("../../fonts/flaticon74c9.woff?d7df025cfae80c576fe3d61cc821caeb")
+      format("woff"),
+    url("../../fonts/flaticon74c9-2.html?d7df025cfae80c576fe3d61cc821caeb")
+      format("woff2"),
+    url("../../fonts/flaticon74c9-3.html?d7df025cfae80c576fe3d61cc821caeb#iefix")
+      format("embedded-opentype"),
+    url("../../fonts/flaticon74c9-4.html?d7df025cfae80c576fe3d61cc821caeb#flaticon")
+      format("svg");
+}
+
+i[class^="flaticon-"]:before,
+i[class*=" flaticon-"]:before {
+  font-family: flaticon !important;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-airplane:before {
+  content: "\f101";
+}
+.flaticon-boat:before {
+  content: "\f102";
+}
+.flaticon-boxes:before {
+  content: "\f103";
+}
+.flaticon-container:before {
+  content: "\f104";
+}
+.flaticon-customer-service:before {
+  content: "\f105";
+}
+.flaticon-diagram:before {
+  content: "\f106";
+}
+.flaticon-interest-rate:before {
+  content: "\f107";
+}
+.flaticon-loading:before {
+  content: "\f108";
+}
+.flaticon-logistic:before {
+  content: "\f109";
+}
+.flaticon-online-chat:before {
+  content: "\f10a";
+}
+.flaticon-route:before {
+  content: "\f10b";
+}
+.flaticon-shipping:before {
+  content: "\f10c";
+}
+.flaticon-tap:before {
+  content: "\f10d";
+}
+.flaticon-train:before {
+  content: "\f10e";
+}
+.flaticon-truck:before {
+  content: "\f10f";
+}
+.flaticon-vehicle:before {
+  content: "\f110";
+}
